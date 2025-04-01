@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#4CAF50" fill-opacity="0.1" stroke="#4CAF50" stroke-width="32"/>
+  
+  <!-- Currency Symbol -->
+  <path d="M256 120C242.7 120 232 130.7 232 144V176H192C178.7 176 168 186.7 168 200C168 213.3 178.7 224 192 224H232V352C232 369.7 217.7 384 200 384H192C178.7 384 168 394.7 168 408C168 421.3 178.7 432 192 432H200C244.2 432 280 396.2 280 352V224H320C333.3 224 344 213.3 344 200C344 186.7 333.3 176 320 176H280V144C280 130.7 269.3 120 256 120Z" fill="#4CAF50"/>
+  
+  <!-- Upward Trend Line -->
+  <path d="M144 288L224 208L288 272L368 192" stroke="#4CAF50" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Dots on the trend line -->
+  <circle cx="144" cy="288" r="12" fill="#4CAF50"/>
+  <circle cx="224" cy="208" r="12" fill="#4CAF50"/>
+  <circle cx="288" cy="272" r="12" fill="#4CAF50"/>
+  <circle cx="368" cy="192" r="12" fill="#4CAF50"/>
+</svg> 
