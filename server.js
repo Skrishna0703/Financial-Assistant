@@ -6,8 +6,18 @@ const app = express();
 app.use(express.static(path.join(__dirname, 'build')));
 
 // Handle React routing, return all requests to React app
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+app.get('*', (req, res, next) => {
+  try {
+    res.sendFile(path.join(__dirname, 'build', 'index.html'));
+  } catch (error) {
+    next(error);
+  }
+});
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something broke!');
 });
 
 const PORT = process.env.PORT || 3000;
