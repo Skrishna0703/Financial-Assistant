@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# 💸 GenAI-Powered Financial Assistant – Google Solution Challenge 2025
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎉 Proud to present our project submission for the **Google Solution Challenge 2025**!
 
-## Available Scripts
+## 🔍 Problem Statement
 
-In the project directory, you can run:
+Despite a surge in retail investing across India, **financial literacy remains alarmingly low**. Millions of new investors enter the market every year without proper education or resources. Traditional support systems can’t scale to meet this demand.
 
-### `npm start`
+## 💡 Our Solution
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+We built a **Generative AI-powered Financial Assistant** to empower individuals by making investing easier, smarter, and more informed — through natural, interactive conversations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### ✅ What It Offers
 
-### `npm test`
+- 💬 **Conversational AI Chatbot** – Ask basic to advanced questions about investing, finance, or markets.
+- 📊 **Investment Product Discovery** – Get recommendations tailored to user goals and risk appetite.
+- 📈 **Informed Guidance** – Real-time AI-driven explanations of financial terms, tools, and plans.
+- 🧠 **User Education** – Promote better understanding of risk, returns, budgeting, and savings.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This tool is designed to **scale financial awareness** and **boost confidence** for first-time and seasoned investors alike.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 🤖 **Google Gemini API** – For GenAI-based financial conversation flow
+- 🌐 **React.js + Tailwind CSS** – Modern frontend
+- 🔙 **Node.js + Express.js** – Backend APIs
+- 📊 **Financial Datasets & APIs** – For product discovery and insight
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🌐 Live Demo & Repos
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 🔗 **Live Site:** [https://lnkd.in/geEETrnR](https://lnkd.in/geEETrnR)
+- 💻 **GitHub:** [https://lnkd.in/gbdGVmEv](https://lnkd.in/gbdGVmEv)
+- 📽️ **YouTube Demo:** [https://lnkd.in/g6xxNZ3A](https://lnkd.in/g6xxNZ3A)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👥 Team Behind the Mission
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+We’re a team of passionate developers and designers committed to solving real-world problems using technology:
 
-## Learn More
+- 👨‍💻 **Ratnadeep Gurav** – Machine Learning / AI (Team Leader)
+- 🧠 **Omkar Tagade** – Full Stack Developer
+- 🎨 **Tejas Nikam** – Full Stack Developer
+- 📱 **Shrikrishna Sutar** – Frontend Development
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🏆 Solution Challenge Vision
 
-### Code Splitting
+> “Build a solution to a local problem using Google technologies.”
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Thanks to **Google Developers** and **GDSC** for empowering students worldwide to solve real problems using technology. We believe this is just the beginning.💡
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📜 License
 
-### Making a Progressive Web App
+This project is open-source under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🙌 Get Involved
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We welcome contributions, feedback, and collaborations! Feel free to fork the repo, open an issue, or reach out on LinkedIn.
